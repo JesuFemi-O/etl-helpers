@@ -1,5 +1,6 @@
 # this file isn't yet reliable!!
 google-cloud-storage
+snowflake-connector-python
 
 boto3==1.26.75
 botocore==1.29.75
